@@ -103,7 +103,7 @@ The dashboard provides insights such as:
 -   Most laptops fall within the **mid‑range price category**
 -   Premium laptops usually have **higher ratings**
 -   The majority of laptops have ratings above **4.0**
--   The market is competitive in the **₹30,000 -- ₹60,000 price range**
+-   The market is competitive in the **₹40,000 -- ₹60,000 price range**
 
 ------------------------------------------------------------------------
 
